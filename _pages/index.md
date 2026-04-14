@@ -40,4 +40,4 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](/shin-site/assets/images/IMG20260222090001.jpg)
-![image](/shin-site/assets/images/.jpg)
+![image](/shin-site/assets/images/IMG20260410110652.jpg)
