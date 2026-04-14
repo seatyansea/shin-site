@@ -44,4 +44,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/IMG20260410110652.jpg)
+![image](/GHPages_WebSite/assets/images/IMG20260410110652.jpg)
