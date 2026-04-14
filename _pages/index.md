@@ -44,4 +44,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/IMG20260222090001.jpg)
+![image](/Shin-site/assets/images/IMG20260222090001.jpg)
