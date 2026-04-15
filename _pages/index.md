@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "Welcome to my world"
 author: default
 permalink: /
 ---
